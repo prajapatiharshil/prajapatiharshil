@@ -4,17 +4,7 @@
 
 ### Software Developer • Learning Data Analytics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=650&lines=Building+Modern+Applications;React+%7C+Angular+%7C+.NET;Exploring+Data+Analytics;Always+Learning+Something+New" />
-
-<br>
-
-<a href="mailto:harshil162006@gmail.com">
-<img src="https://img.shields.io/badge/Email-harshil162006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/prajapatiharshil">
-<img src="https://img.shields.io/badge/GitHub-prajapatiharshil-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Software+Developer;React+%7C+Angular+%7C+.NET;Learning+Data+Analytics;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -22,169 +12,192 @@
 
 # 💫 About Me
 
-```text
-🚀 Passionate about creating scalable applications.
+🚀 Passionate about building scalable software and solving real-world problems.
 
-💻 Interested in Full Stack Development,
-Desktop Applications and Data Analytics.
+💻 Interested in modern web development, desktop applications, backend systems, and data analytics.
 
-📚 Currently learning Data Analytics and
-improving backend architecture skills.
+📚 Currently learning **Data Analytics**, Machine Learning, and advanced backend development.
 
-🎯 Goal:
-Build software that solves real-world problems.
-```
+🎯 My goal is to build software that is fast, reliable, and impactful.
 
 ---
 
-# ⚡ Tech Stack
+# 🌐 Connect With Me
 
-## Languages
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,ts"/>
+<a href="https://github.com/prajapatiharshil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshil-prajapati-5133ab348">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshil162006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## Frontend
+# 💻 Programming Languages
 
 <p>
+
+<img src="https://skillicons.dev/icons?i=python,ts,cs"/>
+
+</p>
+
+---
+
+# 🎨 Frontend
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=react,next"/>
+
 </p>
 
 ---
 
-## Backend
+# ⚙️ Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,bun"/>
 
-<img src="https://img.shields.io/badge/ElysiaJS-6B46C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/ElysiaJS-6B46C1?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
 </p>
 
 ---
 
-## Desktop
+# 🖥 Desktop Development
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=electron"/>
+
 </p>
 
 ---
 
-## Databases
+# 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
 </p>
 
 ---
 
-## Data Analytics
+# 📊 Data Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 </p>
 
 ---
 
-## Cloud & Tools
+# 🧪 Testing
 
 <p>
+
+<img src="https://skillicons.dev/icons?i=playwright"/>
+
+</p>
+
+---
+
+# ☁️ Cloud & Tools
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=aws,git,github"/>
+
 </p>
 
 ---
 
-# 🚀 Currently Exploring
+# 🚀 Current Focus
 
+- 🌐 Modern Full Stack Development
 - 📊 Data Analytics
 - 🤖 Machine Learning
 - ☁️ Cloud Computing
-- ⚡ High Performance Backend
-- 📈 System Design
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prajapatiharshil&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiharshil&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prajapatiharshil&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatiharshil&theme=github-dark&hide_border=true"/>
-
-</div>
+- ⚡ High Performance Backend Systems
+- 💻 Desktop Applications
 
 ---
 
 # 📌 Featured Projects
 
-### 🖥️ V-Tracker
-Employee productivity and workforce tracking platform built using Electron, Bun, ElysiaJS, PostgreSQL and Next.js.
+### 🚀 V-Tracker
+
+Remote workforce productivity tracking platform built using **Electron**, **Bun**, **ElysiaJS**, **PostgreSQL**, **Next.js**, and **TypeScript**.
 
 ---
 
 ### 💄 Smart Skin Recommendation
-AI-powered cosmetics recommendation platform.
+
+AI-powered cosmetics recommendation platform using modern web technologies.
 
 ---
 
 ### 🏦 Bank Management System
-Desktop application for banking operations.
+
+Desktop application for managing banking operations.
 
 ---
 
 ### 🏋️ Gym Management System
-Complete management solution for gyms and fitness centers.
+
+Complete management software for gyms and fitness centers.
+
+---
+
+# 🎯 Interests
+
+- Software Engineering
+- Backend Development
+- Data Analytics
+- Artificial Intelligence
+- Cloud Technologies
+- System Design
+- Performance Optimization
+- Open Source
 
 ---
 
 # 📫 Contact
 
-📧 **harshil162006@gmail.com**
+📧 **Email:** harshil162006@gmail.com
 
-🐙 **github.com/prajapatiharshil**
+🌐 **LinkedIn:** https://www.linkedin.com/in/harshil-prajapati-5133ab348
+
+🐙 **GitHub:** https://github.com/prajapatiharshil
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
+### 💙 Thanks for visiting my profile!
 
-*"Keep Learning • Keep Building • Keep Growing"*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=450&lines=Happy+Coding!;Keep+Learning!;Build+Something+Awesome!" />
 
 </div>
