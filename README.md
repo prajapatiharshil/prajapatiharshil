@@ -1,149 +1,18 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Harshil%20Prajapati&fontAlign=50&fontAlignY=36&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+# 💫 About Me:
+🚀 Passionate about creating scalable applications.<br><br>💻 Interested in Full Stack Development,<br>Desktop Applications and Data Analytics.<br><br>📚 Currently learning Data Analytics and<br>improving backend architecture skills.<br><br>🎯 Goal:<br>Build software that solves real-world problems.
 
-<div align="center">
 
-# 👋 Hi, I'm Harshil Prajapati
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshil-prajapati-5133ab348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshil@viratsoftwaresolution.com) 
 
-### Software Developer • Learning Data Analytics
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Modern+Applications;React+%7C+Angular+%7C+.NET;Backend+Developer;Always+Learning+New+Technologies"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```ts
-const harshil = {
-    role: "Software Developer",
-    learning: "Data Analytics",
-    interests: [
-        "Full Stack Development",
-        "Backend Architecture",
-        "Desktop Applications",
-        "Machine Learning"
-    ],
-    motto: "Keep Learning. Keep Building."
-};
-```
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prajapatiharshil&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prajapatiharshil&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prajapatiharshil&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=prajapatiharshil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-### Languages
-
-```
-Python
-TypeScript
-C#
-```
-
-### Frontend
-
-```
-React
-Angular
-Next.js
-```
-
-### Backend
-
-```
-.NET
-Node.js
-Bun
-ElysiaJS
-```
-
-### Desktop
-
-```
-Electron
-```
-
-### Databases
-
-```
-PostgreSQL
-MongoDB
-MySQL
-```
-
-### Data Analytics
-
-```
-Pandas
-NumPy
-Matplotlib
-SciPy
-Scikit-learn
-```
-
-### Cloud & Tools
-
-```
-AWS
-Git
-GitHub
-Playwright
-```
-
----
-
-## 📂 Featured Projects
-
-```text
-📌 V-Tracker
-   Employee productivity and workforce tracking platform.
-
-📌 Smart Skin Recommendation
-   AI-powered cosmetics recommendation platform.
-
-📌 Gym Management System
-   Desktop application for gym management.
-
-📌 Bank Management System
-   Banking management desktop application.
-```
-
----
-
-## 🎯 Current Focus
-
-```text
-✔ Data Analytics
-
-✔ Machine Learning
-
-✔ Backend Development
-
-✔ Cloud Computing
-
-✔ Performance Optimization
-```
-
----
-
-## 🌐 Connect With Me
-
-- **GitHub:** https://github.com/prajapatiharshil
-- **LinkedIn:** https://www.linkedin.com/in/harshil-prajapati-5133ab348
-- **Email:** harshil162006@gmail.com
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0F172A"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
