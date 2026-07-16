@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Harshil%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Learning%20Data%20Analytics&descAlignY=55"/>
+</p>
+
 <div align="center">
 
-# Hi 👋, I'm Harshil Prajapati
+# 👋 Hi, I'm Harshil Prajapati
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;React+%7C+Angular+%7C+.NET;Learning+Data+Analytics;Python+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Software+Developer;React+%7C+Angular+%7C+.NET;Learning+Data+Analytics;Always+Learning+New+Technologies" />
 
+<p>
 <img src="https://komarev.com/ghpvc/?username=prajapatiharshil&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -12,35 +18,23 @@
 
 # 💫 About Me
 
-🚀 Passionate Software Developer
+💻 Passionate about building scalable and user-friendly applications.
 
-💻 Interested in Web Development, Desktop Applications & Data Analytics
+🚀 Interested in Web Development, Desktop Applications and Data Analytics.
 
-📊 Currently Learning **Data Analytics & Machine Learning**
+📚 Currently learning **Data Analytics**, Machine Learning and modern backend technologies.
 
-🌱 Exploring Modern Technologies and Cloud Computing
+🌱 Continuously improving my problem-solving and development skills.
 
-⚡ Love Building Real World Applications
-
-📫 **Email:** **harshil162006@gmail.com**
-
-🌐 **GitHub:** https://github.com/prajapatiharshil
+⚡ I enjoy creating software that solves real-world problems.
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Contact
 
-<p align="left">
+📧 **Email:** harshil162006@gmail.com
 
-<a href="https://github.com/prajapatiharshil">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:harshil162006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+🐙 **GitHub:** https://github.com/prajapatiharshil
 
 ---
 
@@ -48,11 +42,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,ts,cs"/>
 
 </p>
 
@@ -62,11 +52,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+<img src="https://skillicons.dev/icons?i=react,next"/>
 
 </p>
 
@@ -76,9 +62,9 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,bun"/>
 
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun"/>
+<img src="https://img.shields.io/badge/ElysiaJS-6B46C1?style=for-the-badge"/>
 
 </p>
 
@@ -88,7 +74,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron"/>
+<img src="https://skillicons.dev/icons?i=electron"/>
 
 </p>
 
@@ -98,11 +84,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
 </p>
 
@@ -112,15 +94,17 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </p>
 
@@ -130,21 +114,17 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright"/>
+<img src="https://skillicons.dev/icons?i=playwright"/>
 
 </p>
 
 ---
 
-# ☁️ Cloud & DevOps
+# ☁️ Cloud & Version Control
 
 <p>
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github"/>
 
 </p>
 
@@ -152,60 +132,57 @@
 
 # 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajapatiharshil&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajapatiharshil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiharshil&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatiharshil&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prajapatiharshil&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📊 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatiharshil&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 💡 Interests
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prajapatiharshil&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/prajapatiharshil/prajapatiharshil/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+- 🌐 Full Stack Development
+- ⚙️ Backend Architecture
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- ☁️ Cloud Computing
+- 🖥 Desktop Applications
+- 🚀 Performance Optimization
+- 📱 Modern Web Technologies
 
 ---
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;Build+Amazing+Projects!" />
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
+</p>
